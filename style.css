@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800');
+.fpass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-family: Plus Jakarta Sans;
+    border: none;
+    border-radius: 10px;  
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+}
+label{
+    font-family: Plus Jakarta Sans;
+    font-size: 12px;;
+}
+input{
+    
+    border-radius: 10px;
+    font-family: Plus Jakarta Sans;
+    font-size: 12px;
+    margin-top: 5px;
+    padding-left: 8px;
+    border: 1px solid rgb(113, 243, 109);
+    width: 300px;
+    height: 30px;
+}
+button{
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 8px 35px;
+}
+.sign{
+    font-family: Plus Jakarta Sans;
+    border: none;
+    border-radius: 10px;  
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+}
+.forgot{
+    color: blue;
+    font-family: Plus Jakarta Sans;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+button{
+    background-color: rgb(113, 243, 109);
+    border: none;
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 8px 35px;
+    /* align-items: center; */
+}

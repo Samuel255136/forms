@@ -25,7 +25,7 @@ input{
     border-radius: 10px;
     font-family: Plus Jakarta Sans;
     font-size: 12px;
-    
+     margin-top: 5px;
     padding-left: 8px;
     border: 1px solid rgb(113, 243, 109);
     width: 300px;
@@ -86,7 +86,7 @@ h4{
     justify-content: center; 
 }
 button{
-    background-color: blue;
+    background-color: rgb(113, 243, 109);
     border: none;
     border-radius: 10px;
     font-size: 12px;
@@ -101,3 +101,14 @@ button{
     display: flex;
     justify-content: center; 
 }
+
+.forgot a{
+    color: blue;
+    font-family: Plus Jakarta Sans;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+}
+
+
