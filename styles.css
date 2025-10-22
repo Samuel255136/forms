@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800');
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: yellowgreen; */
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+label{
+    font-family: Plus Jakarta Sans;
+    font-size: 12px;;
+}
+input{
+    
+    border-radius: 10px;
+    font-family: Plus Jakarta Sans;
+    font-size: 12px;
+    
+    padding-left: 8px;
+    border: 1px solid rgb(113, 243, 109);
+    width: 300px;
+    height: 30px;
+}
+.send{
+    cursor: pointer;
+}
+h4{
+    color: rgb(0, 0, 0);
+}
+.box h1{
+    font-family: Plus Jakarta Sans;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.signup p{
+    font-family: Plus Jakarta Sans;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.signup a{
+    font-family: Plus Jakarta Sans;
+    text-decoration: none;
+    color: blue;
+}
+.container h1{
+    font-family: Plus Jakarta Sans;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.donthave p{
+    font-family: Plus Jakarta Sans;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+   
+}
+.donthave a{
+    font-family: Plus Jakarta Sans;
+    text-decoration: none;
+    color: blue;
+}
+.signu{
+    font-family: Plus Jakarta Sans;
+    border: none;
+    border-radius: 10px;   
+}
+.login{
+    font-family: Plus Jakarta Sans;
+    border: none;
+    border-radius: 10px;  
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+}
+button{
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 8px 35px;
+    /* align-items: center; */
+}
+.sign{
+    font-family: Plus Jakarta Sans;
+    border: none;
+    border-radius: 10px;  
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+}
