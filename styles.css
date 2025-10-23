@@ -110,5 +110,25 @@ button{
     display: flex;
     text-decoration: none;
 }
+.back {
+    color: blue;
+    border: none;
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 8px 35px;
+    justify-content: center;
+    display: flex;
+    /* align-items: center; */
+    /* width: 20px; */
+    /* background-color: aqua; */
+}
+.back a{
+    color: blue;
+    font-family: Plus Jakarta Sans;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+}
 
 
